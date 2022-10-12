@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @jaggerharness
 - 👀 I’m a full stack web and mobile developer
-- 🌱 I’m currently working on React, NodeJS, and TailwindCSS
-- 💞️ I’m looking to collaborate on anything
+- 🌱 I’m currently interested in React, NodeJS, TailwindCSS, and Flutter
 - 📫 How to reach me jaggerharness5@gmail.com 
 
 <!---

@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jaggerharness
 - 👀 I’m a full stack developer @ AceOne Technologies
-- 💻 My immediate goal is to continue mastering creating modern, scalable websites
+- 💻 My immediate goal is to continue mastering the creation of modern, scalable websites
 - 📫 How to reach me: jagger.dev@gmail.com 
 
 <!---

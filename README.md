@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jaggerharness
-- 👀 I’m a full stack developer @ AceOne Technologies
+- 👀 I’m a full stack developer @ Strategic Education Inc
 - 💻 My current goal is to master Next.js and Typescript
 - 📫 How to reach me: jagger.dev@gmail.com 
 
